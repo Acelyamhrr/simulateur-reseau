@@ -13,8 +13,6 @@ Ce projet est un **simulateur de réseau local (LAN)** développé dans le cadre
 
 ---
 
-## Captures d'écran
-
 ![Reseau](images/image.png)
 ---
 
