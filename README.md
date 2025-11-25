@@ -15,8 +15,7 @@ Ce projet est un **simulateur de réseau local (LAN)** développé dans le cadre
 
 ## Captures d'écran
 
-*(Ajoutez ici des captures de la sortie console montrant l'état STP, les tables de commutation et la transmission de trames)*
-
+![Reseau](images/image.png)
 ---
 
 ## Technologies utilisées
