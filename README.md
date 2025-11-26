@@ -13,7 +13,10 @@ Ce projet est un **simulateur de réseau local (LAN)** développé dans le cadre
 
 ---
 
-![Reseau](images/image.png)
+<p>
+  <img src="images/image.png" alt="apercu d'un réseau" align="center">
+</p>
+
 ---
 
 ## Technologies utilisées
